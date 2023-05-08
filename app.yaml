@@ -30,6 +30,6 @@ spec:
         app: app1
     spec:
       containers:
-      - image: nginx
+      - image: kharatramesh/vadapavimages
         name: httpd
 ...
