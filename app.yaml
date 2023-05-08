@@ -30,6 +30,6 @@ spec:
         app: app1
     spec:
       containers:
-      - image: httpd
+      - image: nginx
         name: httpd
 ...
